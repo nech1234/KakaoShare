@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KakaoShare</string>
+    <string name="kakao_scheme" translatable="false">kakao1df52cf4673e496bb0adba97fa7c50ef</string>
+    <string name="kakao_share_app_key" translatable="false">1df52cf4673e496bb0adba97fa7c50ef</string>
+</resources>
